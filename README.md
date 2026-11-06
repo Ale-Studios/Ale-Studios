@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex Stark 👋</h1>
+<h1 align="center">Hi, I'm Ale 👋</h1>
 
 <p align="center">
   I build <b>local-first desktop apps for Windows</b> — assistants and music tools that run on your own PC,<br>
@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alex-Stark-industries/JARVIS-Demo"><img alt="JARVIS" src="https://img.shields.io/badge/JARVIS-Demo-1e88e5"></a>
-  <a href="https://github.com/Alex-Stark-industries/FRIDAY-Demo"><img alt="FRIDAY" src="https://img.shields.io/badge/FRIDAY-Demo-e91e63"></a>
-  <a href="https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb"><img alt="Lumen" src="https://img.shields.io/badge/Lumen-Desktop%20Orb-38bdf8"></a>
-  <a href="https://github.com/Alex-Stark-industries/Teo-DesktopBuddy"><img alt="Teo" src="https://img.shields.io/badge/Teo-Desktop%20Buddy-f08cc0"></a>
-  <a href="https://github.com/Alex-Stark-industries/ContinuumTUBE"><img alt="ContinuumTUBE" src="https://img.shields.io/badge/ContinuumTUBE-Guitar%20Rig-d4a55a"></a>
+  <a href="https://github.com/Ale-Studios/JARVIS-Demo"><img alt="JARVIS" src="https://img.shields.io/badge/JARVIS-Demo-1e88e5"></a>
+  <a href="https://github.com/Ale-Studios/FRIDAY-Demo"><img alt="FRIDAY" src="https://img.shields.io/badge/FRIDAY-Demo-e91e63"></a>
+  <a href="https://github.com/Ale-Studios/Lumen-Desktop-Orb"><img alt="Lumen" src="https://img.shields.io/badge/Lumen-Desktop%20Orb-38bdf8"></a>
+  <a href="https://github.com/Ale-Studios/Teo-DesktopBuddy"><img alt="Teo" src="https://img.shields.io/badge/Teo-Desktop%20Buddy-f08cc0"></a>
+  <a href="https://github.com/Ale-Studios/ContinuumTUBE"><img alt="ContinuumTUBE" src="https://img.shields.io/badge/ContinuumTUBE-Guitar%20Rig-d4a55a"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows">
 </p>
 
@@ -25,62 +25,62 @@ Everything is **free**, **private by design**, and keeps your data on your machi
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [JARVIS Demo](https://github.com/Alex-Stark-industries/JARVIS-Demo)
+### 🤖 [JARVIS Demo](https://github.com/Ale-Studios/JARVIS-Demo)
 A free, multilingual, local chatbot and **hands-free voice agent**. It runs 100% on your PC through
 [Ollama](https://ollama.com) — write or talk in English, Italian, Spanish, French, Portuguese or Hindi and
 he answers out loud in the same language, with a dry British wit.
 
-<a href="https://github.com/Alex-Stark-industries/JARVIS-Demo"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/JARVIS-Demo/master/docs/screenshots/voice.png" alt="JARVIS Demo advanced voice mode" width="100%"></a>
+<a href="https://github.com/Ale-Studios/JARVIS-Demo"><img src="https://raw.githubusercontent.com/Ale-Studios/JARVIS-Demo/master/docs/screenshots/voice.png" alt="JARVIS Demo advanced voice mode" width="100%"></a>
 
-[🌐 Website](https://alex-stark-industries.github.io/JARVIS-Demo/) · [⬇ Download](https://github.com/Alex-Stark-industries/JARVIS-Demo/releases/latest)
+[🌐 Website](https://ale-studios.github.io/JARVIS-Demo/) · [⬇ Download](https://github.com/Ale-Studios/JARVIS-Demo/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-### 💗 [FRIDAY Demo](https://github.com/Alex-Stark-industries/FRIDAY-Demo)
+### 💗 [FRIDAY Demo](https://github.com/Ale-Studios/FRIDAY-Demo)
 Free & unlimited, local-first **chat and voice mode**. Type or talk, pick one of six on-device voices,
 keep your sessions saved locally. Same engine idea as JARVIS — no accounts, no API keys, no telemetry.
 
-<a href="https://github.com/Alex-Stark-industries/FRIDAY-Demo"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/FRIDAY-Demo/master/docs/screenshots/voice.png" alt="FRIDAY Demo advanced voice mode" width="100%"></a>
+<a href="https://github.com/Ale-Studios/FRIDAY-Demo"><img src="https://raw.githubusercontent.com/Ale-Studios/FRIDAY-Demo/master/docs/screenshots/voice.png" alt="FRIDAY Demo advanced voice mode" width="100%"></a>
 
-[🌐 Website](https://alex-stark-industries.github.io/FRIDAY-Demo/) · [⬇ Download](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
+[🌐 Website](https://ale-studios.github.io/FRIDAY-Demo/) · [⬇ Download](https://github.com/Ale-Studios/FRIDAY-Demo/releases/latest)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 [Lumen — Desktop Orb](https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb)
+### 🔵 [Lumen — Desktop Orb](https://github.com/Ale-Studios/Lumen-Desktop-Orb)
 A tiny **voice orb** that lives on your desktop. Right-click for instant, spoken answers — the time, the weather,
 a web search, any app by name. **No language model**, no huge downloads, nothing to wait for.
 
-<a href="https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/Lumen-Desktop-Orb/main/docs/screenshots/orb.png" alt="The Lumen orb" width="100%"></a>
+<a href="https://github.com/Ale-Studios/Lumen-Desktop-Orb"><img src="https://raw.githubusercontent.com/Ale-Studios/Lumen-Desktop-Orb/main/docs/screenshots/orb.png" alt="The Lumen orb" width="100%"></a>
 
-[🌐 Website](https://alex-stark-industries.github.io/Lumen-Desktop-Orb/) · [⬇ Download](https://github.com/Alex-Stark-industries/Lumen-Desktop-Orb/releases/latest)
+[🌐 Website](https://ale-studios.github.io/Lumen-Desktop-Orb/) · [⬇ Download](https://github.com/Ale-Studios/Lumen-Desktop-Orb/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Alex-Stark-industries/Alex-Stark-industries/main/assets/teo-face.png" width="28" alt="Teo"> [Teo — Desktop Buddy](https://github.com/Alex-Stark-industries/Teo-DesktopBuddy)
+### <img src="https://raw.githubusercontent.com/Ale-Studios/Ale-Studios/main/assets/teo-face.png" width="28" alt="Teo"> [Teo — Desktop Buddy](https://github.com/Ale-Studios/Teo-DesktopBuddy)
 A tiny **desk robot** on your taskbar — blue **Teo** or pink **Tea**. He climbs the windows you open,
 gives friendly tips, sets timers and reminders, and answers out loud. No language model, no cloud.
 
-<a href="https://github.com/Alex-Stark-industries/Teo-DesktopBuddy"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/Teo-DesktopBuddy/main/docs/screenshots/google.png" alt="Teo asking what to search on Google" width="100%"></a>
+<a href="https://github.com/Ale-Studios/Teo-DesktopBuddy"><img src="https://raw.githubusercontent.com/Ale-Studios/Teo-DesktopBuddy/main/docs/screenshots/google.png" alt="Teo asking what to search on Google" width="100%"></a>
 
-[🌐 Website](https://alex-stark-industries.github.io/Teo-DesktopBuddy/) · [⬇ Download](https://github.com/Alex-Stark-industries/Teo-DesktopBuddy/releases/latest)
+[🌐 Website](https://ale-studios.github.io/Teo-DesktopBuddy/) · [⬇ Download](https://github.com/Ale-Studios/Teo-DesktopBuddy/releases/latest)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🎸 [ContinuumTUBE — Boutique Guitar Rig](https://github.com/Alex-Stark-industries/ContinuumTUBE)
+### 🎸 [ContinuumTUBE — Boutique Guitar Rig](https://github.com/Ale-Studios/ContinuumTUBE)
 A complete **guitar rig** as a VST3 plugin and standalone app: five guitars with switchable pickups, four tube amps
 with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, play — fully offline, no account.
 
-<a href="https://github.com/Alex-Stark-industries/ContinuumTUBE"><img src="https://raw.githubusercontent.com/Alex-Stark-industries/ContinuumTUBE/main/media/shots/rig-gravity.png" alt="ContinuumTUBE guitar rig" width="100%"></a>
+<a href="https://github.com/Ale-Studios/ContinuumTUBE"><img src="https://raw.githubusercontent.com/Ale-Studios/ContinuumTUBE/main/media/shots/rig-gravity.png" alt="ContinuumTUBE guitar rig" width="100%"></a>
 
-[🌐 Website](https://alex-stark-industries.github.io/ContinuumTUBE/) · [⬇ Download](https://github.com/Alex-Stark-industries/ContinuumTUBE/releases/latest)
+[🌐 Website](https://ale-studios.github.io/ContinuumTUBE/) · [⬇ Download](https://github.com/Ale-Studios/ContinuumTUBE/releases/latest)
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, pla
 | 🤖 | JARVIS Demo | Local chatbot + voice agent (Ollama) | MIT |
 | 💗 | FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
 | 🔵 | Lumen | Voice orb, instant answers, no LLM | Free to use |
-| <img src="https://raw.githubusercontent.com/Alex-Stark-industries/Alex-Stark-industries/main/assets/teo-face.png" width="22" alt="Teo"> | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
+| <img src="https://raw.githubusercontent.com/Ale-Studios/Ale-Studios/main/assets/teo-face.png" width="22" alt="Teo"> | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
 | 🎸 | ContinuumTUBE | Guitar amp & effects rig (VST3 + standalone) | Free to use |
 
 ---
