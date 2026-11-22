@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Ale 👋</h1>
 
 <p align="center">
-  I build <b>local-first desktop apps for Windows</b> — assistants and music tools that run on your own PC,<br>
+  I build <b>local-first desktop apps for Windows</b> — assistants, music tools and hand-gesture control that run on your own PC,<br>
   with <b>no account, no API key, no subscription and no cloud</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Ale-Studios/JARVIS-Demo"><img alt="JARVIS" src="https://img.shields.io/badge/JARVIS-Demo-1e88e5"></a>
   <a href="https://github.com/Ale-Studios/FRIDAY-Demo"><img alt="FRIDAY" src="https://img.shields.io/badge/FRIDAY-Demo-e91e63"></a>
-  <a href="https://github.com/Ale-Studios/Lumen-Desktop-Orb"><img alt="Lumen" src="https://img.shields.io/badge/Lumen-Desktop%20Orb-38bdf8"></a>
+  <a href="https://github.com/Ale-Studios/hand-control"><img alt="Hand Control" src="https://img.shields.io/badge/Hand%20Control-Gestures-7fd0ee"></a>
   <a href="https://github.com/Ale-Studios/Teo-DesktopBuddy"><img alt="Teo" src="https://img.shields.io/badge/Teo-Desktop%20Buddy-f08cc0"></a>
   <a href="https://github.com/Ale-Studios/ContinuumTUBE"><img alt="ContinuumTUBE" src="https://img.shields.io/badge/ContinuumTUBE-Guitar%20Rig-d4a55a"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows">
@@ -25,7 +25,7 @@ Everything is **free**, **private by design**, and keeps your data on your machi
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [JARVIS Demo](https://github.com/Ale-Studios/JARVIS-Demo)
+### [JARVIS Demo](https://github.com/Ale-Studios/JARVIS-Demo)
 A free, multilingual, local chatbot and **hands-free voice agent**. It runs 100% on your PC through
 [Ollama](https://ollama.com) — write or talk in English, Italian, Spanish, French, Portuguese or Hindi and
 he answers out loud in the same language, with a dry British wit.
@@ -37,7 +37,7 @@ he answers out loud in the same language, with a dry British wit.
 </td>
 <td width="50%" valign="top">
 
-### 💗 [FRIDAY Demo](https://github.com/Ale-Studios/FRIDAY-Demo)
+### [FRIDAY Demo](https://github.com/Ale-Studios/FRIDAY-Demo)
 Free & unlimited, local-first **chat and voice mode**. Type or talk, pick one of six on-device voices,
 keep your sessions saved locally. Same engine idea as JARVIS — no accounts, no API keys, no telemetry.
 
@@ -50,18 +50,18 @@ keep your sessions saved locally. Same engine idea as JARVIS — no accounts, no
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 [Lumen — Desktop Orb](https://github.com/Ale-Studios/Lumen-Desktop-Orb)
-A tiny **voice orb** that lives on your desktop. Right-click for instant, spoken answers — the time, the weather,
-a web search, any app by name. **No language model**, no huge downloads, nothing to wait for.
+### [Hand Control](https://github.com/Ale-Studios/hand-control)
+Control your PC **with your hands**, in front of any webcam — even from a few metres away. Your hand is the cursor,
+a pinch clicks, a closed fist moves windows. Recognition runs on your PC: no cloud, no recordings. Open source.
 
-<a href="https://github.com/Ale-Studios/Lumen-Desktop-Orb"><img src="https://raw.githubusercontent.com/Ale-Studios/Lumen-Desktop-Orb/main/docs/screenshots/orb.png" alt="The Lumen orb" width="100%"></a>
+<a href="https://github.com/Ale-Studios/hand-control"><img src="https://raw.githubusercontent.com/Ale-Studios/hand-control/main/docs/assets/screenshot-controls.png" alt="Hand Control: the tracked hand and the main gestures" width="100%"></a>
 
-[🌐 Website](https://ale-studios.github.io/Lumen-Desktop-Orb/) · [⬇ Download](https://github.com/Ale-Studios/Lumen-Desktop-Orb/releases/latest)
+[🌐 Website](https://ale-studios.github.io/hand-control/) · [⬇ Download](https://github.com/Ale-Studios/hand-control/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Ale-Studios/Ale-Studios/main/assets/teo-face.png" width="28" alt="Teo"> [Teo — Desktop Buddy](https://github.com/Ale-Studios/Teo-DesktopBuddy)
+### [Teo — Desktop Buddy](https://github.com/Ale-Studios/Teo-DesktopBuddy)
 A tiny **desk robot** on your taskbar — blue **Teo** or pink **Tea**. He climbs the windows you open,
 gives friendly tips, sets timers and reminders, and answers out loud. No language model, no cloud.
 
@@ -74,7 +74,7 @@ gives friendly tips, sets timers and reminders, and answers out loud. No languag
 <tr>
 <td colspan="2" valign="top">
 
-### 🎸 [ContinuumTUBE — Boutique Guitar Rig](https://github.com/Ale-Studios/ContinuumTUBE)
+### [ContinuumTUBE — Boutique Guitar Rig](https://github.com/Ale-Studios/ContinuumTUBE)
 A complete **guitar rig** as a VST3 plugin and standalone app: five guitars with switchable pickups, four tube amps
 with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, play — fully offline, no account.
 
@@ -93,15 +93,15 @@ with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, pla
 - **Local-first and free.** Models and voices run on-device; the internet is only touched when you ask for it
   (a search, the weather) or to check for updates.
 - **Built with free tools.** Claude, Lovable and Base44 — and I'm now exploring Ollama with Qwen3.
-- **Small installers, per-user, no admin rights.** Each app also updates itself from its GitHub releases.
+- **Per-user installers, no admin rights.** Most apps also update themselves from their GitHub releases.
 
-| | Project | Kind | Licence |
-|---|---|---|---|
-| 🤖 | JARVIS Demo | Local chatbot + voice agent (Ollama) | MIT |
-| 💗 | FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
-| 🔵 | Lumen | Voice orb, instant answers, no LLM | Free to use |
-| <img src="https://raw.githubusercontent.com/Ale-Studios/Ale-Studios/main/assets/teo-face.png" width="22" alt="Teo"> | Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
-| 🎸 | ContinuumTUBE | Guitar amp & effects rig (VST3 + standalone) | Free to use |
+| Project | Kind | Licence |
+|---|---|---|
+| JARVIS Demo | Local chatbot + voice agent (Ollama) | MIT |
+| FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
+| Hand Control | Control the PC with hand gestures (webcam) | MIT |
+| Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
+| ContinuumTUBE | Guitar amp & effects rig (VST3 + standalone) | Free to use |
 
 ---
 
