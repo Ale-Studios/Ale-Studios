@@ -9,7 +9,7 @@
   <a href="https://github.com/Ale-Studios/JARVIS-Demo"><img alt="JARVIS" src="https://img.shields.io/badge/JARVIS-Demo-1e88e5"></a>
   <a href="https://github.com/Ale-Studios/FRIDAY-Demo"><img alt="FRIDAY" src="https://img.shields.io/badge/FRIDAY-Demo-e91e63"></a>
   <a href="https://github.com/Ale-Studios/hand-control"><img alt="Hand Control" src="https://img.shields.io/badge/Hand%20Control-Gestures-7fd0ee"></a>
-  <a href="https://github.com/Ale-Studios/Teo-DesktopBuddy"><img alt="Teo" src="https://img.shields.io/badge/Teo-Desktop%20Buddy-f08cc0"></a>
+  <a href="https://github.com/Ale-Studios/n8n-mail-workflow-prototype"><img alt="n8n Mail Workflow" src="https://img.shields.io/badge/n8n-Mail%20Workflow-ea4b71"></a>
   <a href="https://github.com/Ale-Studios/ContinuumTUBE"><img alt="ContinuumTUBE" src="https://img.shields.io/badge/ContinuumTUBE-Guitar%20Rig-d4a55a"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows">
 </p>
@@ -61,13 +61,13 @@ a pinch clicks, a closed fist moves windows. Recognition runs on your PC: no clo
 </td>
 <td width="50%" valign="top">
 
-### [Teo — Desktop Buddy](https://github.com/Ale-Studios/Teo-DesktopBuddy)
-A tiny **desk robot** on your taskbar — blue **Teo** or pink **Tea**. He climbs the windows you open,
-gives friendly tips, sets timers and reminders, and answers out loud. No language model, no cloud.
+### [n8n Mail Workflow](https://github.com/Ale-Studios/n8n-mail-workflow-prototype)
+A free **n8n workflow** that reads your Gmail, sorts each email with Claude and prepares **draft replies**, logs invoices
+and alerts you on Telegram. It never sends an email by itself: you always read and press Send. Prototype.
 
-<a href="https://github.com/Ale-Studios/Teo-DesktopBuddy"><img src="https://raw.githubusercontent.com/Ale-Studios/Teo-DesktopBuddy/main/docs/screenshots/google.png" alt="Teo asking what to search on Google" width="100%"></a>
+<a href="https://github.com/Ale-Studios/n8n-mail-workflow-prototype"><img src="https://raw.githubusercontent.com/Ale-Studios/n8n-mail-workflow-prototype/main/media/n8n-overview.png" alt="The n8n mail workflow: Gmail, Company Profile, Claude classification and six roads" width="100%"></a>
 
-[🌐 Website](https://ale-studios.github.io/Teo-DesktopBuddy/) · [⬇ Download](https://github.com/Ale-Studios/Teo-DesktopBuddy/releases/latest)
+[🌐 Website](https://ale-studios.github.io/n8n-mail-workflow-prototype/) · [⬇ Setup guide](https://github.com/Ale-Studios/n8n-mail-workflow-prototype/blob/main/SETUP.md)
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ with their own cabinets, 21 pedals and 15 song-inspired presets. Drag, drop, pla
 | JARVIS Demo | Local chatbot + voice agent (Ollama) | MIT |
 | FRIDAY Demo | Local chatbot + voice mode (Ollama) | MIT |
 | Hand Control | Control the PC with hand gestures (webcam) | MIT |
-| Teo / Tea | Taskbar robot, tips and timers, no LLM | Free to use |
+| n8n Mail Workflow | Gmail → Claude → draft replies (n8n prototype) | Free to use, not to sell |
 | ContinuumTUBE | Guitar amp & effects rig (VST3 + standalone) | Free to use |
 
 ---
